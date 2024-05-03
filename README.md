@@ -1,8 +1,18 @@
-Hello! I'm Kira and I'm currently an undergraduate student at Oregon State University studying Electrical and Computer Engineering.
+Hello! I'm Kira and I'm a recent graduate of Oregon State University with a BSc in Electrical and Computer Engineering.
 
-My focus areas are in robotics control/simulation, sensors, and microcontroller/embedded systems design. I've previously interned at NASA JPL and Tektronix and I was previously the team lead for the OSU Mars Rover team!
+My focus areas are in robotics control/simulation, sensors, and embedded software development. I've previously interned at NASA JPL and Tektronix and I was previously the team lead for the OSU Mars Rover team!
 
-Most of my repositories are currently hidden, but I plan on making them public once I graduate/finish the classes they pertain to. 
+Some of my more notable projects:
+
+"Lost Without Direction" Senior Capstone- Tracking Algorithm and UI: 
+
+<https://eecs.engineering.oregonstate.edu/project-showcase/projects/?id=kel7GDzFZm7AqQLs>
+
+<https://github.com/OSURoboticsClub/Rover_RDF_Capstone>
+
+Arm Autonomy/Inverse Kinematics Simulation in ROS 1: 
+
+<https://github.com/OSURoboticsClub/Rover_2023_2024/tree/arm-autonomy/software/ros_packages/rover_arm_ik>
 
 <!---
 kira-the-engineer/kira-the-engineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
