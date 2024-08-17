@@ -5,6 +5,9 @@ My focus areas are in robotics control/simulation, sensors, and embedded softwar
 Check out my portfolio for more of my work:
 <https://kira-the-engineer.neocities.org/>
 
+Most recent project: 
+<https://github.com/kira-the-engineer/kalman_library>
+
 Some of my more notable projects:
 
 "Lost Without Direction" Senior Capstone- Tracking Algorithm and UI: 
