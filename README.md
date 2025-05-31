@@ -6,7 +6,7 @@ Check out my portfolio for more of my work:
 <https://kira-the-engineer.neocities.org/>
 
 Most recent project: 
-<https://github.com/kira-the-engineer/kalman_library>
+<https://github.com/kira-the-engineer/OS-Air-Quality-Sensor>
 
 Some of my more notable projects:
 
