@@ -1,9 +1,6 @@
-Hello! I'm Kira and I'm a recent graduate of Oregon State University with a BSc in Electrical and Computer Engineering.
+Hello! I'm Kira and I'm a recent graduate of Oregon State University with a BSc in Electrical and Computer Engineering. I am currently working as a Signal Integrity Engineer at Tektronix.
 
-My focus areas are in robotics control/simulation, sensors, and embedded software development. I've previously interned at NASA JPL and Tektronix and I was previously the team lead for the OSU Mars Rover team!
-
-Check out my portfolio for more of my work:
-<https://kira-the-engineer.neocities.org/>
+In my spare time, I like to design hobby PCBs, write embedded software, and study robotics control concepts. I previously interned at NASA JPL and Tektronix and I was previously the team lead for the OSU Mars Rover team!
 
 Most recent project: 
 <https://github.com/kira-the-engineer/OS-Air-Quality-Sensor>
